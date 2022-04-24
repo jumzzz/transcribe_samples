@@ -1,3 +1,4 @@
 *tmp/
 *batch_process/*.mp4
 *stream_process/*.mp4
+*output_result/*.temp

@@ -1,5 +1,9 @@
 # Stream Processing with AWS Transcribe
 
+**Note:**
+- The SSE-KMS Keys generated here are from a simulator environment. This is in no way an SSE-KMS Keys for an actual AWS Resources that runs live
+
+
 ## TODO
 1. Create an SSE-KMS Key for Encryption at Rest to S3
 2. Create an S3 bucket that uses the created SSE-KMS Key for encryption
@@ -105,3 +109,14 @@ Which results to output, notice that there's a key for `ServerSideEncryption`
     "SSEKMSKeyId": "arn:aws:kms:us-east-1:451713003466:key/00000000-0000-0000-0000-000000000000"
 }
 ```
+
+### Step 3: Implement an AWS Transcribe Locally
+- This is implemented within `local_transcribe.py`
+
+### Step 4: Implement this on Lambda
+- **TODO**
+
+
+### Output Artifacts
+- `output_result/transcribe_data` contains transcription prediction data
+- `output_result/transcribe_data.srt` contains the SRT file for adding subtitles

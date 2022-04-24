@@ -1,0 +1,351 @@
+1
+00:00:02,940 --> 00:00:06,060
+let me drag you back to programming first. Like what?
+
+2
+00:00:06,060 --> 00:00:09,980
+Three, maybe 3 to 5 programming languages Should people learn, Do you think?
+
+3
+00:00:09,990 --> 00:00:13,370
+Like, if you look at yourself, what did you get the most out of
+
+4
+00:00:14,350 --> 00:00:15,150
+from learning?
+
+5
+00:00:15,540 --> 00:00:16,980
+Well, so
+
+6
+00:00:17,140 --> 00:00:20,230
+everybody should learn. See an assembly. We'll start with those two.
+
+7
+00:00:20,580 --> 00:00:21,450
+Assembly.
+
+8
+00:00:21,460 --> 00:00:24,860
+Yeah, If you can't coding assembly, you don't know what the computer's doing.
+
+9
+00:00:25,080 --> 00:00:26,250
+You don't understand. Like
+
+10
+00:00:26,640 --> 00:00:29,710
+you want to be great assembly, but you have to code in it.
+
+11
+00:00:30,000 --> 00:00:30,910
+And then like,
+
+12
+00:00:30,920 --> 00:00:32,680
+you have to appreciate assembly in order to
+
+13
+00:00:32,680 --> 00:00:34,650
+appreciate all the great things see gets you.
+
+14
+00:00:35,330 --> 00:00:37,020
+And then you have to code and see in order
+
+15
+00:00:37,020 --> 00:00:38,950
+to appreciate all the great things by that gets you.
+
+16
+00:00:39,740 --> 00:00:42,250
+So obviously, assembly seeing python will start with those three
+
+17
+00:00:43,140 --> 00:00:45,980
+the memory allocation of sea and the
+
+18
+00:00:46,260 --> 00:00:51,450
+the fact that s o somebody gives you a sense of just how many loves abstraction
+
+19
+00:00:51,940 --> 00:00:54,790
+you get to work on in modern day. Yeah. Graft.
+
+20
+00:00:54,820 --> 00:00:58,020
+Hollering for assignment, register signed and compilers.
+
+21
+00:00:58,030 --> 00:00:58,790
+Yeah, you know,
+
+22
+00:00:58,790 --> 00:01:00,390
+you gotta do you know the companion computer
+
+23
+00:01:00,390 --> 00:01:01,670
+only has a certain number of registered.
+
+24
+00:01:01,680 --> 00:01:03,870
+You can have all the variables you want to see function.
+
+25
+00:01:04,120 --> 00:01:05,280
+You know, you get to start your
+
+26
+00:01:05,750 --> 00:01:07,690
+intuition about compilation
+
+27
+00:01:07,820 --> 00:01:08,080
+like
+
+28
+00:01:08,250 --> 00:01:08,980
+Kampala gets you.
+
+29
+00:01:10,640 --> 00:01:11,370
+What else?
+
+30
+00:01:11,490 --> 00:01:14,030
+Well, then there's then there's kind of ah,
+
+31
+00:01:14,610 --> 00:01:17,510
+so those are all very imperative for languages.
+
+32
+00:01:19,150 --> 00:01:21,070
+Then there's two other paradigms for programming
+
+33
+00:01:21,070 --> 00:01:22,460
+that everybody should be familiar with.
+
+34
+00:01:22,520 --> 00:01:23,650
+I'm one of dysfunctional.
+
+35
+00:01:24,400 --> 00:01:27,430
+You should learn Haskell and take that all the way through.
+
+36
+00:01:27,440 --> 00:01:29,490
+Learn a language with dependent types like cock
+
+37
+00:01:30,350 --> 00:01:35,250
+learn that whole space like the very pl theory Heavy languages
+
+38
+00:01:36,080 --> 00:01:37,640
+and has caused your favourite functional.
+
+39
+00:01:38,000 --> 00:01:39,180
+But is that the go to?
+
+40
+00:01:39,680 --> 00:01:43,740
+Yeah, I'm not. I'm not a great Haskell programmer. Welcome, pilot Haskell ones.
+
+41
+00:01:43,930 --> 00:01:45,150
+There's another paradigm, and actually,
+
+42
+00:01:45,150 --> 00:01:47,680
+there's one more paradigm l'd even talk about after that that I
+
+43
+00:01:47,680 --> 00:01:49,270
+never used to talk about when I would think about this.
+
+44
+00:01:49,270 --> 00:01:50,980
+But the next paradigm has learned barrel
+
+45
+00:01:51,110 --> 00:01:51,650
+of HDL
+
+46
+00:01:52,740 --> 00:01:53,250
+off.
+
+47
+00:01:53,640 --> 00:01:56,450
+Understand this idea of all of the instructions executed once
+
+48
+00:01:58,840 --> 00:02:00,750
+you have a blocking vara log and I right
+
+49
+00:02:01,340 --> 00:02:03,030
+stuff in it, it's not sequential.
+
+50
+00:02:03,270 --> 00:02:04,550
+They all execute it once
+
+51
+00:02:06,840 --> 00:02:08,970
+on them, like things like that. That's a hard works
+
+52
+00:02:10,039 --> 00:02:10,669
+to be.
+
+53
+00:02:10,680 --> 00:02:15,050
+So I guess assembly doesn't quite get you that somebody's more about compilation
+
+54
+00:02:15,630 --> 00:02:17,470
+and very log is more about the hardware,
+
+55
+00:02:17,620 --> 00:02:21,250
+like giving us. That's what actually is the hardware is doing
+
+56
+00:02:21,840 --> 00:02:25,770
+assembly. See, python are straight like that. They sit right on top of each other.
+
+57
+00:02:25,780 --> 00:02:26,850
+In fact, see is
+
+58
+00:02:27,340 --> 00:02:27,760
+well,
+
+59
+00:02:28,170 --> 00:02:31,180
+it's kind of coded and say But you could imagine the first sea was coated in assembly
+
+60
+00:02:31,550 --> 00:02:32,720
+line is actually coated in C.
+
+61
+00:02:32,960 --> 00:02:35,950
+S. O. You know, you can straight up. Go on that.
+
+62
+00:02:36,940 --> 00:02:37,320
+God,
+
+63
+00:02:37,660 --> 00:02:39,750
+I'm in viral. I give a zb. Brilliant.
+
+64
+00:02:40,240 --> 00:02:42,870
+Okay, and then I think there's another one. Now
+
+65
+00:02:43,150 --> 00:02:45,340
+everyone's Carpathia costed programming to point out
+
+66
+00:02:45,610 --> 00:02:47,350
+which is learn
+
+67
+00:02:47,740 --> 00:02:48,350
+a
+
+68
+00:02:48,840 --> 00:02:49,450
+I'm never going.
+
+69
+00:02:49,840 --> 00:02:50,830
+Don't learn tensorflow
+
+70
+00:02:50,970 --> 00:02:51,720
+pytorch.
+
+71
+00:02:51,930 --> 00:02:52,960
+So, machine learning.
+
+72
+00:02:53,260 --> 00:02:56,570
+We gotta come up with a better term, then programming to 0.0. R.
+
+73
+00:02:58,740 --> 00:03:00,400
+But yeah, it's a programming language.
+
+74
+00:03:03,240 --> 00:03:05,640
+I wonder if it could be formalise a little bit better,
+
+75
+00:03:05,650 --> 00:03:07,650
+which we feel like we're in the early days.
+
+76
+00:03:08,140 --> 00:03:09,550
+What? That actually entails
+
+77
+00:03:10,340 --> 00:03:11,650
+data driven programming
+
+78
+00:03:12,540 --> 00:03:14,140
+data driven programming. Yeah,
+
+79
+00:03:14,910 --> 00:03:18,150
+but so fundamentally different as a paradigm than the others.
+
+80
+00:03:19,140 --> 00:03:21,450
+Like it almost requires a different skill set.
+
+81
+00:03:23,740 --> 00:03:24,940
+But you think yeah,
+
+82
+00:03:27,110 --> 00:03:29,290
+implied towards first tensorflow pytorch wins.
+
+83
+00:03:29,730 --> 00:03:30,420
+It is the fourth
+
+84
+00:03:30,570 --> 00:03:32,630
+time. It's the fourth paradigm that I've kind of seen
+
+85
+00:03:32,760 --> 00:03:34,250
+there's like this, you know?
+
+86
+00:03:34,840 --> 00:03:36,620
+Imperative. Functional
+
+87
+00:03:37,240 --> 00:03:39,470
+hardware. I don't know a better word for it,
+
+88
+00:03:39,690 --> 00:03:40,650
+and then the mail.
