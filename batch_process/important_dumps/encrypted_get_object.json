@@ -1,0 +1,10 @@
+{
+    "AcceptRanges": "bytes",
+    "LastModified": "2022-04-24T09:56:43+00:00",
+    "ContentLength": 9901473,
+    "ETag": "\"7b3fa90fcc99996ba7415c1304baa4a1-2\"",
+    "ContentType": "video/mp4",
+    "ServerSideEncryption": "aws:kms",
+    "Metadata": {},
+    "SSEKMSKeyId": "arn:aws:kms:us-east-1:451713003466:key/00000000-0000-0000-0000-000000000000"
+}
