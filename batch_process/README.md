@@ -1,4 +1,4 @@
-# Stream Processing with AWS Transcribe
+# Batch Processing with AWS Transcribe
 
 **Note:**
 - The SSE-KMS Keys generated here are from a simulator environment. This is in no way an SSE-KMS Keys for an actual AWS Resources that runs live
