@@ -116,6 +116,8 @@ Which results to output, notice that there's a key for `ServerSideEncryption`
 ### Step 4: Implement this on Lambda
 - **TODO**
 
+### Step 5: Create a Makefile
+- **TODO**
 
 ### Output Artifacts
 - `output_result/transcribe_data` contains transcription prediction data
